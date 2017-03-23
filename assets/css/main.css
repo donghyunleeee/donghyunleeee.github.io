@@ -476,7 +476,7 @@
 	}
 
 	.\-6u {
-		margin-left: 50%;
+		margin-left: 80%;
 	}
 
 	.\-5u {
@@ -1902,7 +1902,7 @@
 	}
 
 		hr.major {
-			margin: 3em 0;
+			margin: 5em 0;
 		}
 
 	blockquote {
@@ -1990,7 +1990,7 @@
 			display: inline-block;
 			height: 1px;
 			margin-top: 1.5em;
-			width: 6em;
+			width: 3em;
 		}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -2710,7 +2710,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("https://www.madgreens.com/sites/default/files/styles/adaptive/public/ty_cobb_with_southwest_chicken_thumb-150709.jpg?itok=6h1vl928");
+			background-image: url("https://expertbeacon.com/sites/default/files/how_to_start_your_first_vegetable_garden_and_grow_your_own_vegetables.jpg");
 			background-size: cover;
 		}
 
@@ -2801,7 +2801,7 @@
 		background-color: #fff;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("http://www.dole.com/~/media/Mastheads/Fresh_Vegetables.jpg");
+		background-image: url("http://cdn.dragosroua.com/wp-content/uploads/2014/11/fresh-vegetables-on-the-wooden-table-wallpaper-5000x3745.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: cover,							cover;
 		overflow: hidden;
