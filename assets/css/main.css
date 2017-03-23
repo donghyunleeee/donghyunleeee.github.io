@@ -2710,8 +2710,8 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/header.jpg");
-			background-size: auto,							cover;
+			background-image: url("https://www.madgreens.com/sites/default/files/styles/adaptive/public/ty_cobb_with_southwest_chicken_thumb-150709.jpg?itok=6h1vl928");
+			background-size: cover;
 		}
 
 			.main.style2 a {
@@ -2801,9 +2801,9 @@
 		background-color: #fff;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("../../images/header.jpg");
+		background-image: url("http://www.dole.com/~/media/Mastheads/Fresh_Vegetables.jpg");
 		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-size: cover,							cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
